@@ -1,6 +1,6 @@
 ### Hi there !👋 I'm Anderson Pacheco Soares.
 
-- 🌱 I’m currently learning at Alpha EdTech...
+- 🌱 I’m currently learning at Alpha EdTech and Kenzie Academy...
 - 💬 contact me if you want!
 
 ## My stats:
