@@ -1,6 +1,8 @@
 ### Hi there !👋 I'm Anderson Pacheco Soares.
+[![wakatime](https://wakatime.com/badge/user/b5a60b2c-4302-4698-a232-2e6cf19ddd4e.svg)](https://wakatime.com/@b5a60b2c-4302-4698-a232-2e6cf19ddd4e)<br>
+![CodeWars](https://www.codewars.com/users/ayoline/badges/small)
 
-- 🌱 I’m currently learning at Alpha EdTech...
+- 🌱 I’m currently learning Python and Flutter...
 - 💬 contact me if you want!
 
 ## My stats:
@@ -12,7 +14,7 @@
 
 ![Ayoline's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoline&hide=issues&show_icons=true)
 
-[![wakatime](https://wakatime.com/badge/user/b5a60b2c-4302-4698-a232-2e6cf19ddd4e.svg)](https://wakatime.com/@b5a60b2c-4302-4698-a232-2e6cf19ddd4e)
+
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg" />
